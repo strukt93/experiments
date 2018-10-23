@@ -1,4 +1,5 @@
-*/.vscode
-*/__pychache__
-*/*.pm
-*/*.o
+.vscode
+__pychache__
+*.pm
+*.o
+*.bin
