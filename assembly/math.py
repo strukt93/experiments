@@ -58,4 +58,4 @@ def dec_to_hex_str(dec_str):
 def hex_add(hex_str_a, hex_str_b):
     return dec_to_hex_str(int(hex_to_dec_str(hex_str_a)) + int(hex_to_dec_str(hex_str_b)))
 
-print(hex_add("2F31AD", "96BA07"))
+print(hex_add("2F31AD", "96BA07")) #C5EBB4
