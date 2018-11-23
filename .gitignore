@@ -3,3 +3,4 @@ __pychache__
 *.pm
 *.o
 *.bin
+*.pyc
